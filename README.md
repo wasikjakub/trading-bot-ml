@@ -1,12 +1,12 @@
 # Stock price prediction using ML algorithms, technical analysis & live trading
 
 ## Overview
-This project applies **Machine Learning (ML)** techniques for stock price prediction, integrates **technical analysis indicators**, and supports **live trading** decisions. The system is designed to analyze historical stock market data, extract meaningful insights using technical indicators, train predictive models, and execute trades based on the predictions.
+This project applies **Machine Learning (ML)** techniques for stock price prediction, integrates **technical analysis indicators**, and supports **live trading** decisions. The system is designed to analyze historical stock market data, extract meaningful insights using technical indicators, train predictive models, and execute trades.
 
 ## Sample results
 - succesful simulation of [live trading](https://github.com/wasikjakub/trading-bot-ml/blob/main/live-trading/simulations/live-profit-simulation.TXT) +16,7% on ETH
 - confusion matrix of logistic regression model with 85 % accuracy on Apple stock.
-![Screenshot 2025-03-05 at 12 52 13](https://github.com/user-attachments/assets/c5bbc212-68e1-4963-90c9-85a0631c6689)
+![Screenshot 2025-03-05 at 13 01 38](https://github.com/user-attachments/assets/1f811e70-f622-45df-b857-92f124169a66)
 - profitable result for 2022 ETH technical analysis BB strategy.
 ![Screenshot 2025-03-05 at 12 54 40](https://github.com/user-attachments/assets/5a3991e5-5f16-4b14-8aa0-b0505b894a0b)
 - result for 2022 Apple stock using SMA.
