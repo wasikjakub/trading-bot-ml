@@ -1,0 +1,131 @@
+Waiting for buying condition to be fulfilled ...
+bought for 1604.73
+target profit: 1607.94
+stop loss: 1601.52
+USD: 1000
+current price: 1604.73
+SOLD! profit made: 3.21
+USD: 1032.1000000000004
+Waiting for buying condition to be fulfilled ...
+bought for 1607.16
+target profit: 1610.37
+stop loss: 1603.95
+USD: 1032.1000000000004
+current price: 1607.16
+LOSS STOPPED! loss: -3.26
+USD: 998.4535400000004
+--------------------
+Waiting for buying condition to be fulfilled ...
+bought for 1604.13
+target profit: 1607.34
+stop loss: 1600.92
+USD: 998.4535400000004
+current price: 1604.13
+SOLD! profit made: 3.32
+USD: 1031.6021975279998
+Waiting for buying condition to be fulfilled ...
+bought for 1608.11
+target profit: 1611.33
+stop loss: 1604.89
+USD: 1031.6021975279998
+current price: 1608.11
+SOLD! profit made: 3.33
+USD: 1065.9545507056837
+Waiting for buying condition to be fulfilled ...
+bought for 1612.49
+target profit: 1615.71
+stop loss: 1609.27
+USD: 1065.9545507056837
+current price: 1612.49
+SOLD! profit made: 3.31
+USD: 1101.2376463340413
+Waiting for buying condition to be fulfilled ...
+bought for 1617.29
+target profit: 1620.52
+stop loss: 1614.06
+USD: 1101.2376463340413
+current price: 1617.29
+SOLD! profit made: 3.27
+USD: 1137.2481173691642
+Waiting for buying condition to be fulfilled ...
+bought for 1622.04
+target profit: 1625.28
+stop loss: 1618.8
+USD: 1137.2481173691642
+current price: 1622.04
+LOSS STOPPED! loss: -3.25
+USD: 1100.2875535546664
+--------------------
+Waiting for buying condition to be fulfilled ...
+bought for 1616.99
+target profit: 1620.22
+stop loss: 1613.76
+USD: 1100.2875535546664
+current price: 1616.99
+SOLD! profit made: 3.27
+USD: 1136.2669565559036
+Waiting for buying condition to be fulfilled ...
+bought for 1618.51
+target profit: 1621.75
+stop loss: 1615.27
+USD: 1136.2669565559036
+current price: 1618.51
+SOLD! profit made: 3.3
+USD: 1173.7637661222477
+Waiting for buying condition to be fulfilled ...
+bought for 1621.9
+target profit: 1625.14
+stop loss: 1618.66
+USD: 1173.7637661222477
+current price: 1621.9
+SOLD! profit made: 3.3
+USD: 1212.4979704042812
+Waiting for buying condition to be fulfilled ...
+bought for 1628.53
+target profit: 1631.79
+stop loss: 1625.27
+USD: 1212.4979704042812
+current price: 1628.53
+LOSS STOPPED! loss: -3.52
+USD: 1169.8180418460508
+--------------------
+Waiting for buying condition to be fulfilled ...
+bought for 1625.58
+target profit: 1628.83
+stop loss: 1622.33
+USD: 1169.8180418460508
+current price: 1625.58
+SOLD! profit made: 3.26
+USD: 1207.9541100102322
+Waiting for buying condition to be fulfilled ...
+bought for 1628.51
+target profit: 1631.77
+stop loss: 1625.25
+USD: 1207.9541100102322
+current price: 1628.51
+LOSS STOPPED! loss: -3.3
+USD: 1168.091624379895
+--------------------
+Waiting for buying condition to be fulfilled ...
+bought for 1626.34
+target profit: 1629.59
+stop loss: 1623.09
+USD: 1168.091624379895
+current price: 1626.34
+LOSS STOPPED! loss: -3.31
+USD: 1129.427791612921
+--------------------
+Waiting for buying condition to be fulfilled ...
+bought for 1622.64
+target profit: 1625.89
+stop loss: 1619.39
+USD: 1129.427791612921
+current price: 1622.64
+SOLD! profit made: 3.36
+USD: 1167.3765654111141
+Waiting for buying condition to be fulfilled ...
+bought for 1625.93
+target profit: 1629.18
+stop loss: 1622.68
+USD: 1167.3765654111141
+current price: 1625.93

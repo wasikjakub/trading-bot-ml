@@ -1,0 +1,78 @@
+Waiting for buying condition to be fulfilled ...
+bought for 1607.91
+target profit: 1611.13
+stop loss: 1604.69
+USD: 1000
+current price: 1607.91
+LOSS STOPPED! loss: -3.63
+USD: 963.6999999999989
+Waiting for buying condition to be fulfilled ...
+bought for 1604.84
+target profit: 1608.05
+stop loss: 1601.63
+USD: 963.6999999999989
+current price: 1604.84
+SOLD! profit made: 3.26
+USD: 995.1166199999989
+Waiting for buying condition to be fulfilled ...
+bought for 1606.67
+target profit: 1609.88
+stop loss: 1603.46
+USD: 995.1166199999989
+current price: 1606.67
+LOSS STOPPED! loss: -3.31
+USD: 962.1782598779972
+Waiting for buying condition to be fulfilled ...
+bought for 1603.16
+target profit: 1606.37
+stop loss: 1599.95
+USD: 962.1782598779972
+current price: 1603.16
+SOLD! profit made: 3.3
+USD: 993.9301424539706
+Waiting for buying condition to be fulfilled ...
+bought for 1605.37
+target profit: 1608.58
+stop loss: 1602.16
+USD: 993.9301424539706
+current price: 1605.37
+SOLD! profit made: 3.23
+USD: 1026.034086055234
+Waiting for buying condition to be fulfilled ...
+bought for 1608.49
+target profit: 1611.71
+stop loss: 1605.27
+USD: 1026.034086055234
+current price: 1608.49
+LOSS STOPPED! loss: -3.22
+USD: 992.9957884842552
+Waiting for buying condition to be fulfilled ...
+bought for 1604.86
+target profit: 1608.07
+stop loss: 1601.65
+USD: 992.9957884842552
+current price: 1604.86
+LOSS STOPPED! loss: -3.61
+USD: 957.1486405199745
+Waiting for buying condition to be fulfilled ...
+bought for 1601.0
+target profit: 1604.2
+stop loss: 1597.8
+USD: 957.1486405199745
+current price: 1601.0
+LOSS STOPPED! loss: -3.26
+USD: 925.9455948390233
+Waiting for buying condition to be fulfilled ...
+bought for 1599.42
+target profit: 1602.62
+stop loss: 1596.22
+USD: 925.9455948390233
+current price: 1599.42
+SOLD! profit made: 3.21
+USD: 955.6684484333564
+Waiting for buying condition to be fulfilled ...
+bought for 1607.96
+target profit: 1611.18
+stop loss: 1604.74
+USD: 955.6684484333564
+current price: 1607.96
