@@ -1,5 +1,4 @@
 # Stock price prediction using ML algorithms, technical analysis & live trading
-# Stock Price Prediction, Technical Analysis & Live Trading
 
 ## Overview
 This project applies **Machine Learning (ML)** techniques for stock price prediction, integrates **technical analysis indicators**, and supports **live trading** decisions. The system is designed to analyze historical stock market data, extract meaningful insights using technical indicators, train predictive models, and execute trades based on the predictions.
